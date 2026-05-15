@@ -29,12 +29,13 @@ This project implements and compares **three classical deep learning architectur
 ```
 sugarcane-cnn-qcnn/
 │
-├── dataset/                        # Dataset folder (not tracked — see Dataset section)
+├── dataset/                        # Dataset folder (total 13 classes)
 │   ├── Healthy/
 │   ├── Mosaic/
 │   ├── RedRot/
 │   ├── Rust/
 │   └── Yellow/
+    ...
 │
 ├── models/                         # Saved model checkpoints
 │   ├── custom_cnn.pth
@@ -137,7 +138,7 @@ sugarcane-cnn-qcnn/
 ### Install dependencies
 
 ```bash
-git clone https://github.com/<your-username>/sugarcane-cnn-qcnn.git
+git clone https://github.com/<bhavika-bit>/sugarcane-cnn-qcnn.git
 cd sugarcane-cnn-qcnn
 pip install -r requirements.txt
 ```
