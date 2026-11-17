@@ -206,8 +206,8 @@ The VQC experiment uses a reduced 12-dimensional feature representation.
 |---|---:|
 | Feature dimension | 12 |
 | Training accuracy | 99.16% |
-| Validation accuracy | 95.83% |
-| Test accuracy | **94.52%** |
+| Validation accuracy | 96.04% |
+| Test accuracy | **94.32%** |
 | Test precision | 0.95 |
 | Test recall | 0.95 |
 | Test F1-score | 0.95 |
